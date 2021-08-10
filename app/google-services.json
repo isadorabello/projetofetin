@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "174915085644",
+    "project_id": "fetin-c535d",
+    "storage_bucket": "fetin-c535d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174915085644:android:8bf0bcff0f06baf1d29be9",
+        "android_client_info": {
+          "package_name": "com.example.farmaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174915085644-6ic5v1c1g486m914tjbqaci6kk8jk2kb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farmaapp",
+            "certificate_hash": "101fb3ac0b3a2d82f34d80e1a2ed0a8715ae454b"
+          }
+        },
+        {
+          "client_id": "174915085644-suvqm55er8k1g89p9vcr1moorvso0eqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6fEVfPnmRMCR5fc6LiCS4s75R1ilaPIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174915085644-suvqm55er8k1g89p9vcr1moorvso0eqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
